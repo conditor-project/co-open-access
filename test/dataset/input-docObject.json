@@ -1,0 +1,177 @@
+{
+  "creationDate": "2019-06-03 10:23:14",
+  "title": {
+    "default": "Probing high-pressure reactions in heterogeneous materials by Raman spectroscopy",
+    "fr": "",
+    "en": "Probing high-pressure reactions in heterogeneous materials by Raman spectroscopy",
+    "monography": "",
+    "journal": "Zeitschrift für Kristallographie",
+    "meeting": ""
+  },
+  "first3AuthorNames": "Ceppatelli M. Gorelli F.A. Haines Julien",
+  "authorNames": "Ceppatelli M. Gorelli F.A. Haines Julien Santoro M. Bini Roberto",
+  "first3AuthorNamesWithInitials": "Ceppatelli M Gorelli F Haines J",
+  "authors": [
+    {
+      "forename": "M.",
+      "isni": [],
+      "surname": "Ceppatelli",
+      "researcherId": "",
+      "halAuthorId": "1010604",
+      "affiliations": [
+        {
+          "ref": "struct-74633",
+          "address": "UniVersita ? di Firenze, LENS - European Laboratory for Non-Linear Spectroscopy, UniVersita ́ di Firenze, Via N. Carrara 1, I-50019 Sesto F.no (FI), IT",
+          "isni": [],
+          "idRef": [],
+          "rnsr": []
+        }
+      ],
+      "orcId": [],
+      "idHal": "",
+      "idRef": [],
+      "viaf": []
+    },
+    {
+      "forename": "F.A.",
+      "isni": [],
+      "surname": "Gorelli",
+      "researcherId": "",
+      "halAuthorId": "168204",
+      "affiliations": [
+        {
+          "ref": "struct-30896",
+          "address": "National Institute for Nuclear Physics INFN, LENS, European Laboratory for Non-linear Spectroscopy and INFM, Via Carrara 1, Sesto Fiorentino, Firenze I-50019, Italy, IT",
+          "isni": [],
+          "idRef": [],
+          "rnsr": []
+        }
+      ],
+      "orcId": [],
+      "idHal": "",
+      "idRef": [],
+      "viaf": []
+    },
+    {
+      "forename": "Julien",
+      "isni": [],
+      "surname": "Haines",
+      "researcherId": "",
+      "halAuthorId": "220141",
+      "affiliations": [
+        {
+          "ref": "struct-24492",
+          "address": "Université Montpellier 1 UM1, Université Montpellier 2 - Sciences et Techniques UM2, Ecole Nationale Supérieure de Chimie de Montpellier ENSCM, Université de Montpellier UM, UMR5253, Centre National de la Recherche Scientifique CNRS, Institut Charles Gerhardt Montpellier - Institut de Chimie Moléculaire et des Matériaux de Montpellier ICGM ICMMM, Bâtiment 15 - CC003 Place Eugène Bataillon - 34095 Montpellier cedex 5, FR",
+          "isni": [
+            "0000000120970141",
+            "0000000122597504"
+          ],
+          "idRef": [
+            "02636817X"
+          ],
+          "rnsr": []
+        }
+      ],
+      "orcId": [],
+      "idHal": "",
+      "idRef": [],
+      "viaf": []
+    },
+    {
+      "forename": "M.",
+      "isni": [],
+      "surname": "Santoro",
+      "researcherId": "",
+      "halAuthorId": "305057",
+      "affiliations": [
+        {
+          "ref": "struct-74633",
+          "address": "UniVersita ? di Firenze, LENS - European Laboratory for Non-Linear Spectroscopy, UniVersita ́ di Firenze, Via N. Carrara 1, I-50019 Sesto F.no (FI), IT",
+          "isni": [],
+          "idRef": [],
+          "rnsr": []
+        }
+      ],
+      "orcId": [],
+      "idHal": "",
+      "idRef": [],
+      "viaf": []
+    },
+    {
+      "forename": "Roberto",
+      "isni": [],
+      "surname": "Bini",
+      "researcherId": "",
+      "halAuthorId": "355952",
+      "affiliations": [
+        {
+          "ref": "struct-74633",
+          "address": "UniVersita ? di Firenze, LENS - European Laboratory for Non-Linear Spectroscopy, UniVersita ́ di Firenze, Via N. Carrara 1, I-50019 Sesto F.no (FI), IT",
+          "isni": [],
+          "idRef": [],
+          "rnsr": []
+        },
+        {
+          "ref": "struct-74634",
+          "address": "UniVersita ? di Firenze, Dipartimento di Chimica dell' UniVersita ́ di Firenze, Via della Lastruccia 3, I-50019 Sesto F.no (FI), IT",
+          "isni": [],
+          "idRef": [],
+          "rnsr": []
+        }
+      ],
+      "orcId": [],
+      "idHal": "",
+      "idRef": [],
+      "viaf": []
+    }
+  ],
+  "issn": [
+    "0044-2968"
+  ],
+  "eissn": [
+    "2366-1798"
+  ],
+  "xissn": [
+    "0044-2968",
+    "2366-1798"
+  ],
+  "isbn": [],
+  "doi": "10.1515/zkri-2013-1627",
+  "hasDoi": true,
+  "issue": "2",
+  "pageRange": "83-91",
+  "volume": "229",
+  "halId": "hal-00974999",
+  "halAuthorId": [
+    "1010604",
+    "168204",
+    "220141",
+    "305057",
+    "355952"
+  ],
+  "orcId": [],
+  "researcherId": [],
+  "viaf": [],
+  "publicationDate": "2014",
+  "documentType": [
+    "ART"
+  ],
+  "isni": [],
+  "rnsr": [],
+  "path": "/applis/conditor/home/input/hal/HAL_2019-06-03_INGESTION/tei-conditor-20190521/2014/hal-00974999.xml",
+  "source": "hal",
+  "typeConditor": "Article",
+  "idConditor": "lZ1wfwHNjomNRMPnHY3hpabgA",
+  "sourceId": "hal-00974999",
+  "sourceUid": "hal$hal-00974999",
+  "sessionName": "HAL_2019-06-03_INGESTION",
+  "isDeduplicable": true,
+  "idChain": "hal:lZ1wfwHNjomNRMPnHY3hpabgA!",
+  "duplicates": [],
+  "isDuplicate": false,
+  "idElasticsearch": "ijndHGsBFAzcfG65UOHT",
+  "isNearDuplicate": false,
+  "nearDuplicates": [],
+  "nearDuplicatesDetectedBySimilarity": [],
+  "_score": 27.426865
+}
