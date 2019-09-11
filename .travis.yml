@@ -3,7 +3,7 @@ sudo: true
 addons:
   apt:
     packages:
-      - openjdk-8-jre
+      - openjdk-8-jdk
 before_script:
   - sleep 10
 node_js:
