@@ -3,7 +3,7 @@ sudo: true
 addons:
   apt:
     sources:
-      - ppa:webupd8team/java
+      - sourceline: 'ppa:webupd8team/java'
     packages:
       - oracle-java9-set-default
 before_script:
