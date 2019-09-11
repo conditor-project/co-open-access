@@ -1,5 +1,9 @@
 language: node_js
 sudo: true
+addons:
+  apt:
+    packages:
+      - openjdk-8-jre
 before_script:
   - sleep 10
 node_js:
