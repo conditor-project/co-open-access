@@ -1,11 +1,7 @@
 language: node_js
 sudo: true
-addons:
-  apt:
-    sources:
-      - sourceline: 'ppa:linuxuprising/java'
-    packages:
-      - oracle-java11-installer-local
+jdk:
+  - openjdk9
 before_script:
   - sleep 10
 node_js:
