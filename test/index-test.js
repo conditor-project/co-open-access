@@ -45,8 +45,11 @@ describe(pkg.name + '/index.js', function () {
       coOpenAccess.doTheJob(docObjectInput, (error, docObject) => {
         if (error) return done(error);
         expect(docObject).to.have.property('isOa');
+        expect(docObject.isOa).to.be.a('boolean');
         expect(docObject).to.have.property('isJournalIsOa');
+        expect(docObject.isJournalIsOa).to.be.a('boolean');
         expect(docObject).to.have.property('journalIsInDoaj');
+        expect(docObject.journalIsInDoaj).to.be.a('boolean');
         expect(docObject).to.have.property('oaStatus');
         expect(docObject).to.have.property('bestOaLocation');
         expect(docObject).to.have.property('oaLocations');

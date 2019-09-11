@@ -14,7 +14,7 @@ coOpenAccess.doTheJob = function (docObject, next) {
   }).then(response => {
     const hasZeroOrManyResult = response.hits.total !== 1;
     if (hasZeroOrManyResult) return next(null, docObject);
-    const result = response.hits.hits.pop();
+    const result = response.hits.hits.pop()._source;
     const enrichment = {
       isOa: result.is_oa,
       isJournalIsOa: result.journal_is_oa,
