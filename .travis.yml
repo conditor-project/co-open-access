@@ -3,9 +3,9 @@ sudo: true
 addons:
   apt:
     sources:
-      - sourceline: 'ppa:webupd8team/java'
+      - sourceline: 'ppa:linuxuprising/java'
     packages:
-      - oracle-java9-set-default
+      - oracle-java11-installer
 before_script:
   - sleep 10
 node_js:
