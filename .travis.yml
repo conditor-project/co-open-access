@@ -3,7 +3,7 @@ sudo: true
 addons:
   apt:
     packages:
-      - oracle-java9-set-default
+      - oracle-java10-set-default
 before_script:
   - sleep 10
 node_js:
