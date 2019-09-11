@@ -1,9 +1,5 @@
 language: node_js
 sudo: true
-addons:
-  apt:
-    packages:
-      - oracle-java10-set-default
 before_script:
   - sleep 10
 node_js:
